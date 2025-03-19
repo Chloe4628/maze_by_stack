@@ -1,1 +1,1 @@
-# maze_by_stack
+# maze_path_by_stack
